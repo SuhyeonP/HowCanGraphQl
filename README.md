@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+#GraphQL 첫 도전
+this back server is https://github.com/SuhyeonP/graphqlBack
+here!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##https://github.com/SuhyeonP/Treat-Data
+위 저장소는 graphQL이아닌 일반 데이터를 
+페이징 처리와 인피니트 스크롤링 되는것을 볼수있습니다.
+배포하게 된다면 , 링크 추가하도록 하겠습니다.
 
-## Available Scripts
+----------
+또한 
+###React + Next + Redux + TypeScript 
+를 이용한 프로젝트는
+####http://honeyhyoni.shop/
+를 봐주시면 감사하겠습니다.
 
-In the project directory, you can run:
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+기존 만들었던 포트폴리오 목록
+>CAF캎E : http://ahah12k.cafe24.com/jin/
+>   >Java Spring MVC, 풀스택
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+> 롤 성격체크 : http://ahah12k.cafe24.com/ptp1
+>   >Java Spring MVC, 풀스택
 
-### `yarn test`
+> 귀멸의 칼날 : http://ahah12k.cafe24.com/ptp2
+>   >모바일 전용
+>   >   >Java Spring MVC, 풀스택
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+>Next.ts : https://typescript-next-brown.vercel.app/
+>   >웹게임 및 귀멸의칼날 remake
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+##Made by suheon [자기소개서](https://suhyeonp.github.io/)
+###[개발일지](https://blog.naver.com/on10041004)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
