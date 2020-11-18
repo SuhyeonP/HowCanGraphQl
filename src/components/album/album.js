@@ -4,7 +4,6 @@ import {Query} from "@apollo/client/react/components";
 
 import './album.css'
 import PagingTable from "./pagingTable";
-import PgButton from "./pgbutton";
 
 const GET_ALBUM = gql`
     query{
@@ -23,33 +22,14 @@ const Album = () => {
                     if (error) return <p>Error!</p>
                     return (
                         <>
-                            <div className="img-zone">
-                                <img src="https://i.stack.imgur.com/DAwB5.png" id="selectImg"/>
-                            </div>
-                            <div className="paging-table">
-                                <table>
-                                    <thead>
-                                    <tr>
-                                        <td>Num</td>
-                                        <td>Title</td>
-                                        <td>When</td>
-                                        <td>Part</td>
-                                    </tr>
-                                    </thead>
-                                    <tbody>
+                            <div className="album-sec">
+                                <ul className="album-list">
                                     {data.albums.map(({id}) => {
                                         return <PagingTable id={id}/>
                                     })}
-                                    </tbody>
-                                </table>
-                            </div>
-                            <div className="page-button">
-                                <ul>
-                                    {data.albums.map(({id}) => {
-                                        return <PgButton id={id}/>
-                                    })}
                                 </ul>
                             </div>
+
                         </>
                     )
                 }}
