@@ -1,17 +1,18 @@
-#GraphQL 첫 도전   
+# GraphQL 첫 도전   
 this back server is https://github.com/SuhyeonP/graphqlBack   
 here!
 
-###https://github.com/SuhyeonP/Treat-Data   
+### https://github.com/SuhyeonP/Treat-Data   
 위 저장소는 graphQL이아닌 일반 데이터를 페이징 처리와    
 인피니트 스크롤링 되는것을 볼수있습니다.   
 배포하게 된다면 , 링크 추가하도록 하겠습니다.   
+++)추가 [링크](http://data.honeyhyoni.shop/)
 
 ----------
 또한    
-###React + Next + Redux + TypeScript    
+### React + Next + Redux + TypeScript    
 를 이용한 프로젝트는   
-####http://honeyhyoni.shop/   
+#### http://honeyhyoni.shop/   
 를 봐주시면 감사하겠습니다.   
 
 
@@ -31,8 +32,8 @@ here!
 >   >웹게임 및 귀멸의칼날 remake
 
 
-##Made by suheon [자기소개서](https://suhyeonp.github.io/)     
-###[개발일지](https://blog.naver.com/on10041004)       
+## Made by suheon [자기소개서](https://suhyeonp.github.io/)     
+### [개발일지](https://blog.naver.com/on10041004)       
 
 
 
